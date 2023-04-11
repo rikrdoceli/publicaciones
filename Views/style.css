@@ -1,0 +1,39 @@
+.brand img{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+
+}
+
+.contenedor{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+.alinear-izquierda{
+  float: center;
+  }
+
+header{
+
+}
+
+header figure{
+  width: 100px;
+  height: 100px;
+  background: url(img/logoprin.png);
+}
+
+ /*  .romper-float{
+    clear: both;
+  } */
+
+  /* Detalles adicionales */
+ /*  img.alinear-izquierda{
+    padding: -10px;
+ }
+     */
+  .div1 {
+    background-color: #19f139;
+  }
